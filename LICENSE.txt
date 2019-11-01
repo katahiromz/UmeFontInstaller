@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+UmeFont license (In English)
+-------------------------------------------------------------------------------
+
+This is common license of the UmeFont family. UmeFont family provides the
+following fonts:
+
+    * Ume Gothic
+    * Ume Gothic C4
+    * Ume Gothic S4
+    * Ume Gothic O5
+    * Ume Gothic C5
+    * Ume Gothic S5
+    * Ume P Gothic
+    * Ume P Gothic C4
+    * Ume P Gothic S4
+    * Ume P Gothic O5
+    * Ume P Gothic C5
+    * Ume P Gothic S5
+    * Ume UI Gothic
+    * Ume UI Gothic O5
+    * Ume Hy Gothic
+    * Ume Hy Gothic O5    
+    * Ume Mincho
+    * Ume Mincho S3
+    * Ume P Mincho
+    * Ume P Mincho S3
+
+
+These fonts are free software.
+Unlimited permission is granted to use, copy, and distribute it,
+with or without modification, either commercially and noncommercially.
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
